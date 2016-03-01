@@ -1,7 +1,4 @@
 <?php
-/**
- * @author jy625
- */
 
 class MD5SignUtil {
 	
