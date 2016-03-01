@@ -1,11 +1,7 @@
 <?php
-/**
- * @author jy625
- */
+
 class CommonUtil{
 	/**
-	 * 
-	 * 
 	 * @param toURL
 	 * @param paras
 	 * @return
