@@ -1,7 +1,6 @@
 <?php
 /**
  * 微信红包类
- * @author jy625
  */
 include_once("CommonUtil.php");
 include_once("SDKRuntimeException.class.php");
